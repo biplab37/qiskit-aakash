@@ -6,11 +6,20 @@
 Welcome to qiskit-aakash's documentation!
 =========================================
 
+This is documentation for qiskit-aakash repository which implements the den
+sity matrix formalism for simulating quantum bits in a classical computers.
+
+To install the code simply run the following commands
+
+    git clone https://github.com/indian-institute-of-science-qc/qiskit-aakash
+    cd qiskit-aakash
+    pip install -e .
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-    Help
-    Contact
+
+   Help
+   Contact
 
 
 Indices and tables
