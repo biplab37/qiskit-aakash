@@ -9,7 +9,8 @@ Welcome to qiskit-aakash's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+    Help
+    Contact
 
 
 Indices and tables
