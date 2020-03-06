@@ -9,6 +9,11 @@ Welcome to qiskit-aakash's documentation!
 This is documentation for qiskit-aakash repository which implements the den
 sity matrix formalism for simulating quantum bits in a classical computers.
 
+.. automodule:: dm_simulator
+   :members:
+
+.. autoclass:: DmSimulatorPy
+   :members:
 
 .. toctree::
    :maxdepth: 2
@@ -21,7 +26,8 @@ sity matrix formalism for simulating quantum bits in a classical computers.
    jupyter/Density_Matrix.ipynb
    jupyter/hubbardmodel.ipynb
    contact
-
+   api
+   
 
 Indices and tables
 ==================
