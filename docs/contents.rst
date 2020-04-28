@@ -5,7 +5,9 @@
    jupyter/Quantum_States.ipynb
    jupyter/Qubit.ipynb
    jupyter/Multiple_Qubits.ipynb
-   jupyter/Pauli_basis.ipynb
+   subfiles/Gates.rst
+   subfiles/Pauli_basis.rst
    jupyter/Density_Matrix.ipynb
+   subfiles/Examples.rst
    jupyter/hubbardmodel.ipynb
    contact
